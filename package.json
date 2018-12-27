@@ -1,0 +1,14 @@
+{
+  "name": "react-utils",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:doniyor2109/react-utils.git",
+  "author": "doniyor2109 <doniyor2109@gmail.com>",
+  "peerDependencies": {
+    "react": "^16.7.0"
+  },
+  "devDependencies": {
+    "react": "^16.7.0"
+  },
+  "license": "MIT"
+}
